@@ -6,6 +6,7 @@
     <p> {{ product.description }}</p>
     <p>Price: {{ product.price }}</p>
     <button @click="addToCart(product)"> Add to Cart</button>
+    <h1>VD197Demo</h1>
     <div>
 
     </div>
